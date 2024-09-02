@@ -1,4 +1,4 @@
-public class ds0001RevString{
+public class DS0001RevString{
     public static void main(String args[]){
         String name = "siddu ganesh musa";
 
