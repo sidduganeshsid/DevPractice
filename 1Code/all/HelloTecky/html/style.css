@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+    border: 1px solid black;
+}
+
+.headerInfo{
+    background-color: #85adc180;/* grey; */
+    padding: 20px;
+}
+
+.content {
+    text-align: center;
+    height: 500px;
+}
+

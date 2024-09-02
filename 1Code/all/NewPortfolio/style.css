@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.bodyContent{
+    display: flex;
+    justify-content: center;
+}
